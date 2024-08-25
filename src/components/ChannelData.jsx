@@ -49,7 +49,7 @@ export function ChannelData({
           <img
             className="float-end"
             width={"40px"}
-            src={`<img src="https://flagsapi.com/${country}/flat/64.png">`}
+            src={`https://flagsapi.com/${country}/flat/64.png`}
           ></img>
         </div>
       </div>
