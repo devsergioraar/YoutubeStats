@@ -49,7 +49,7 @@ export function ChannelData({
           <img
             className="float-end"
             width={"40px"}
-            src={`http://www.geognos.com/api/en/countries/flag/${country}.png`}
+            src={`<img src="https://flagsapi.com/${country}/flat/64.png">`}
           ></img>
         </div>
       </div>
