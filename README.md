@@ -1,8 +1,13 @@
-# React + Vite
+# Youtube Stats
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a little project to show my progress on Learning React.
+I feel proud for my effort, nonetheless, I wish to show more elaborated ideas in my portfolio!
 
-Currently, two official plugins are available:
+I will code some other solutions! 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## What does it do?
+It performs a search on Youtube API to Show some stats from a Channel. Give it a try!
+
+## Contact me!
+[My LinkedIn](https://www.linkedin.com/in/devsergioraar/)
+[My Email](mailto:sramirezartavia@gmail.com)
