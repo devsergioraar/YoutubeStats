@@ -123,7 +123,7 @@ function App() {
         >
            
           <a className="text-white" href="https://www.linkedin.com/in/devsergioraar/">
-            2024 | LinkedIn: Sergio Ramírez Artavia 
+          LinkedIn: Sergio Ramírez Artavia | 2024
           </a>
         </div>
       </footer>
